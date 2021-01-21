@@ -12,7 +12,7 @@ Pneumonia is an infection that inflames the air sacs in one or both lungs. The a
 
 - Run baseline model
  
-- Fixed class imbalance
+- Fixed class imbalance 
 
 - Adjusted and tuned model for optimal results
 
