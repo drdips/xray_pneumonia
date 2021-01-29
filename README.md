@@ -7,7 +7,7 @@ Pneumonia is an infection that inflames the air sacs in one or both lungs. The a
 
 ## The Approach
 - Download data from Kaggle
-
+ 
 - Explore data
 
 - Run baseline model
