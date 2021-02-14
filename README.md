@@ -34,5 +34,3 @@ Our team started by creating training, testing, and validations sets. Next, our 
 
 ## You can read the blog @:
 https://roydipta.medium.com/training-a-neural-network-to-identify-pneumonia-in-x-rays-e05a27982443 
-
- 
